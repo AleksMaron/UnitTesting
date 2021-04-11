@@ -11,7 +11,7 @@ namespace CalculatorProgram
 
         public float Multiply(float a, float c) => a * c;
 
-        public float Divide(float a, float b) => a / b;
+        public float Divide(float a, float c) => a / c;
 
         
     }
