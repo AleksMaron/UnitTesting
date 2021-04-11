@@ -1,10 +1,15 @@
 ﻿using System;
-namespace UnitTesting
+
+namespace CalculatorProgram
 {
     public class Calculator
     {
         public Calculator()
         {
+            
         }
+
+
+        
     }
 }
