@@ -9,6 +9,7 @@ namespace CalculatorProgram
             
         }
 
+        public float Multiply(float a, float b) => a * b;
 
         
     }
